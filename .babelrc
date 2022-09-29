@@ -1,0 +1,9 @@
+{
+    " plugin " : [
+     [ " module- Resolutionver " , {
+        " alias " : {
+          " ~ " : " ./src " 
+       }
+     }]
+   ]
+ }
